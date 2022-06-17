@@ -29,7 +29,7 @@ rustdoc-args = [
 ]
 
 [dependencies]
-ammonia = "3.0.0"
+ammonia = "3.1.3"
 anyhow = "1.0"
 base64 = "0.13"
 cargo-registry-s3 = { path = "src/s3", version = "0.2.0" }
